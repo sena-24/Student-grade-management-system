@@ -1,20 +1,20 @@
+# 🎓 Student Marks Management System
 
-This project is a simple Python-based application that manages student marks
-and calculates grades using basic programming concepts.
+This is a simple Python project to manage student marks and calculate grades.
+
+## 🚀 Features
 - Add student details
 - Calculate total and average marks
-- Assign grades
+- Assign grades automatically
 - Display all student records
 
- Technologies Used
+## 🛠️ Technologies Used
 - Python 3
 
- How to Run
-1. Open terminal or VS Code
-2. Navigate to project folder
-3. Run:
-   python student_grade.py
-Future Enhancements
-- Store data in a file
-- Add more subjects
-- GUI interface
+## ▶️ How to Run
+1. Install Python
+2. Download the project
+3. Run the file:
+
+```bash
+python main.py
